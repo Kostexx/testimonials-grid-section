@@ -118,6 +118,7 @@ body {
 .card-3 {
     background: var(--cl-white);
     color: var(--cl-grayish-blue);
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, .1);
     grid-column: 1 / 2;
 
     .person-avatar {
@@ -144,6 +145,7 @@ body {
 .card-5 {
     background: var(--cl-white);
     color: var(--cl-grayish-blue);
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, .1);
     grid-column: 4 / 5;
     grid-row: 1 / 3;
 
