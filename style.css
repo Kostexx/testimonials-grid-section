@@ -100,9 +100,9 @@ body {
     .quotation-mark {
         position: absolute;
         z-index: 1;
-        width: 135px;
+        width: 120px;
         top: 0;
-        right: 15%;
+        right: 13%;
     }
 }
 
